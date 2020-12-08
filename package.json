@@ -1,0 +1,33 @@
+{
+  "name": "vue-selectable-calendar",
+  "version": "1.0.1",
+  "description": "A high-performance,simple vue2 calendar component.",
+  "author": "yjianoops <yjianoops@gmail.com>",
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "jest --config tests/unit/jest.conf.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yjianoops/vue-selectable-calendar.git"
+  },
+  "bugs": {
+    "url": "https://github.com/yjianoops/vue-selectable-calendar/issues"
+  },
+  "homepage": "https://github.com/yjianoops/vue-selectable-calendar#readme",
+  "keywords": [
+    "vue",
+    "vue-calendar",
+    "selectablecalendar",
+    "vue-selectable-calendar"
+  ],
+  "license": "MIT",
+  "devDependencies": {
+    "@babel/core": "^7.12.9",
+    "@babel/preset-env": "^7.12.7",
+    "@vue/test-utils": "^1.1.1",
+    "babel-jest": "^26.6.3",
+    "jest": "^26.6.3",
+    "vue-jest": "^3.0.7"
+  }
+}
