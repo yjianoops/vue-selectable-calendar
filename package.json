@@ -1,6 +1,6 @@
 {
   "name": "vue-selectable-calendar",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A high-performance,simple vue2 calendar component.",
   "author": "yjianoops <yjianoops@gmail.com>",
   "main": "./src/index.js",
