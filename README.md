@@ -10,9 +10,10 @@ npm install vue-selectable-calendar --save
 ```
 
 ## Demo 
-The demo page is [Here](http://yjianoops.github.io/vue-selectable-calendar/demo/index.html).  
+https://raw.githubusercontent.com/yjianoops/vue-selectable-calendar/master/demo_dist/js/app.00d51efb.js
+The demo page is [Here](https://raw.githack.com/yjianoops/vue-selectable-calendar/master/demo_dist/index.html).  
 
-![image](https://raw.githubusercontent.com/yjianoops/yjoosps.github.io/master/assets/images/imgs/exploring-functional-programming.jpg)  
+![image](https://raw.githubusercontent.com/yjianoops/vue-selectable-calendar/master/demo_dist/demo.gif)  
 
 ## Usage
 
